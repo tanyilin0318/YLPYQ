@@ -1,0 +1,70 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - ESTabBarController (0.2)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - MLLabel (1.10.5)
+  - MMWebView (1.2)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+  - UUButton (1.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - ESTabBarController (~> 0.2)
+  - FMDB (~> 2.7.5)
+  - Masonry (~> 1.1.0)
+  - MJRefresh (~> 3.2.0)
+  - MLLabel
+  - MMWebView (~> 1.2)
+  - SDWebImage (~> 5.0.3)
+  - UUButton (~> 1.1)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - ESTabBarController
+    - FMDB
+    - Masonry
+    - MJRefresh
+    - MLLabel
+    - MMWebView
+    - SDWebImage
+    - UUButton
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  ESTabBarController: e82ac0b135bec16fb646ac1da4ac8953fcd927da
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+  MMWebView: e316971fbd8fb9c7fdc02b96c35d450f77961002
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+  UUButton: 9a19bbe0c812a6920de21da8acca7a2d0bad52da
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 9fe5ab3590aab078c839dcf63d38f26fa4dd814e
+
+COCOAPODS: 1.5.0
